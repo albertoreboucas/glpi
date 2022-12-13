@@ -11,12 +11,12 @@
 LOGS="install_glpi.log"
 GLPI_LANG="en_US"
 # GLPI_LANG="pt_BR"
-VERSION="9.5.6"
+VERSION="9.5.11"
 TIMEZONE=Etc/UTC
 # TIMEZONE=America/Fortaleza
-FQDN="glpi.fametec.com.br"
-ADMINEMAIL="suporte@fametec.com.br"
-ORGANIZATION="FAMETec"
+FQDN="glpi.sepog.fortaleza.ce.gov.br"
+ADMINEMAIL="albertoreboucas@gmail.com"
+ORGANIZATION="sepog"
 MYSQL_ROOT_PASSWORD=''
 DBUSER="glpi"
 DBHOST="localhost"
